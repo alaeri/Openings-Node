@@ -1,0 +1,14 @@
+{
+  "name": "openings",
+  "version": "0.0.1",
+  "description": "An api to deliver openings of famous novels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-books-search": "^0.3.1"
+  }
+}
